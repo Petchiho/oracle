@@ -1,3 +1,6 @@
+In this project, we are deploying a test environment with oracle 19c along with one container database created
+	OEL 7 to be installed.
+	
 1. Edit file "0_env_variables.env" as per your specific environment.
   
 2. create location to move your installation scripts as a root user.
